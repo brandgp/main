@@ -13,9 +13,9 @@ title                    : "Brandon Garcia"
 title_separator          : "-"
 name                     : &name "Brandon Garcia"
 description              : &description "Research Analyst"
-url                      : "https://brandgp.github.io/main"
+url                      : https://brandgp.github.io/main
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://brandgp/main"
+repository               : "brandgp/main"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
