@@ -13,7 +13,7 @@ title                    : "Brandon Garcia"
 title_separator          : "-"
 name                     : &name "Brandon Garcia"
 description              : &description "Research Analyst"
-url                      : "https://brandgp.github.io"
+url                      : "https://brandgp.github.io/main"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://brandgp/main"
 
