@@ -17,5 +17,4 @@ Education
 Work experience
 ======
 * July-today
-  * State and Local Governance Initiative. The Hoover Instituion, Stanford University.
-  * Research Analyst
+  * Research Analyst for State and Local Governance Initiative. The Hoover Instituion, Stanford University.
